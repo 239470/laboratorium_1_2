@@ -1,0 +1,9 @@
+connected-components-3d
+scipy
+numpy
+matplotlib
+sklearn
+scikit-image
+pyransac3d
+pandas
+open3d
